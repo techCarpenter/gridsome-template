@@ -1,0 +1,67 @@
+{
+  "id": 0,
+  "ownerName": {
+    "first": "Anna",
+    "last": "Bleeker"
+  },
+  "businessName": "Anna's Dog Grooming",
+  "yearEstablished": "2020",
+  "email": "BleekerAnna@gmail.com",
+  "phone": "6164907386",
+  "address": {
+    "address1": "3882 Hall St. SW",
+    "address2": "Grand Rapids, MI 49534"
+  },
+  "facebook": "https://www.facebook.com/Annas-Dog-Grooming-100821271706476/",
+  "instagram": "https://www.instagram.com/annas_doggrooming/",
+  "businessHours": [
+    {
+      "dayId": 0,
+      "day": "Sunday",
+      "hours": "CLOSED"
+    },
+    {
+      "dayId": 1,
+      "day": "Monday",
+      "hours": "CLOSED"
+    },
+    {
+      "dayId": 2,
+      "day": "Tuesday",
+      "hours": "9AM - 5PM"
+    },
+    {
+      "dayId": 3,
+      "day": "Wednesday",
+      "hours": "9AM - 5PM"
+    },
+    {
+      "dayId": 4,
+      "day": "Thursday",
+      "hours": "9AM - 5PM"
+    },
+    {
+      "dayId": 5,
+      "day": "Friday",
+      "hours": "4PM - 7PM"
+    },
+    {
+      "dayId": 6,
+      "day": "Saturday",
+      "hours": "CLOSED"
+    }
+  ],
+  "serviceList": [
+    {
+      "serviceId": 0,
+      "service": "Basic Package",
+      "price": 20.00,
+      "description": "Pamper your pup without breaking the bank.",
+      "included": [
+        "Nail Trim",
+        "Bath",
+        ""
+      ]
+    }
+  ]
+}
