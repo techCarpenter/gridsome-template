@@ -9,5 +9,26 @@ module.exports = {
   siteDescription: "",
   siteUrl: "",
   titleTemplate: "%s",
-  plugins: [],
+  templates: {
+    PageMarkdown: "/:slug"
+  },
+  plugins: [
+    {
+      use: "@gridsome/plugin-sitemap",
+      options: {},
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "PageMarkdown",
+        baseDir: "./content/pages",
+        path: "*.md",
+      },
+    },
+  ],
+  transformers: {
+    remark: {
+      externalLinksRel: ["nofollow", "noopener", "noreferrer"],
+    },
+  },
 };
