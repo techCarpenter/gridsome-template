@@ -7,10 +7,10 @@
 module.exports = {
   siteName: "Anna's Dog Grooming",
   siteDescription: "",
-  siteUrl: "",
+  siteUrl: "https://annasdoggrooming.netlify.com/",
   titleTemplate: "%s",
   templates: {
-    PageMarkdown: "/:slug"
+    PageMarkdown: "/:slug",
   },
   plugins: [
     {
