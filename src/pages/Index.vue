@@ -1,25 +1,28 @@
 <template>
   <Layout>
-
-    <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <!-- <g-image alt="Example image" src="~/favicon.png" width="135" /> -->
-
-    <h1>Hello, world!</h1>
-
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
-    </p>
-
-    <p class="home-links">
-      <a href="https://gridsome.org/docs/" target="_blank" rel="noopener">Gridsome Docs</a>
-      <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
-    </p>
-
+    <div class="image-box">
+      <g-image src="./../assets/images/annas-dog.jpg" alt="My dog Cody!" />
+    </div>
+    <h1>{{$page.metadata.siteName}}</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores</p>
   </Layout>
 </template>
 
+<page-query>
+query {
+  metadata {
+    siteName
+  }
+}
+</page-query>
+
 <style>
-.home-links a {
-  margin-right: 1rem;
+.image-box {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+img {
+    width: 100%;
 }
 </style>

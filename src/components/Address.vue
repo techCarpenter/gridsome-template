@@ -1,8 +1,10 @@
 <template>
   <div class="address-block">
-      <p><strong>Address:</strong></p>
-      <p>{{$static.json.address.address1}}</p>
-      <p>{{$static.json.address.address2}}</p>
+    <p>
+      <strong>Address:</strong>
+    </p>
+    <p>{{$static.json.address.address1}}</p>
+    <p>{{$static.json.address.address2}}</p>
   </div>
 </template>
 
@@ -16,3 +18,12 @@ query {
   }
 }
 </static-query>
+
+<style scoped>
+.address-block {
+    padding: 5px;
+}
+p {
+  margin: 0;
+}
+</style>

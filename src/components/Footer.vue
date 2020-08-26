@@ -1,20 +1,26 @@
 <template>
   <footer>
     <SocialLinks />
-    <Address />
-    <ul>
-      <li>
-        <g-link to="/contact/">Contact</g-link>
-      </li>
-      <li>
-        <g-link to="/gallery/">Gallery</g-link>
-      </li>
-      <li>
-        <g-link to="/about/">About Us</g-link>
-      </li>
-    </ul>
+    <nav>
+      <g-link to="/contact/">Contact</g-link>
+      <g-link to="/gallery/">Gallery</g-link>
+      <g-link to="/about/">About</g-link>
+    </nav>
+    <!-- <Address /> -->
+    <p class="copyright">
+      &copy; {{new Date().getFullYear().toString()}}
+      <g-link to="/">{{$static.metadata.siteName}}</g-link>
+    </p>
   </footer>
 </template>
+
+<static-query>
+  query {
+    metadata {
+      siteName
+    }
+  }
+</static-query>
 
 <script>
 import SocialLinks from "../components/SocialLinks";
@@ -23,7 +29,26 @@ import Address from "../components/Address";
 export default {
   components: {
     SocialLinks,
-    Address
+    Address,
   },
 };
 </script>
+
+<style scoped>
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.copyright {
+  text-align: center;
+}
+.copyright a {
+  color: slategray;
+}
+</style>

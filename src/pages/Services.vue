@@ -1,3 +1,38 @@
 <template>
-    <p>Nothing to see here yet...</p>
+  <Layout>
+    <h1>Services</h1>
+    <div class="service-container">
+      <ServiceCard
+        v-for="service in $page.services.edges"
+        :key="service.node.id"
+        :service="service.node"
+      />
+    </div>
+  </Layout>
 </template>
+
+<page-query>
+  query {
+    services: allService {
+      edges {
+        node {
+          id
+          price
+          description
+          title
+          icon
+        }
+      }
+    }
+  }
+</page-query>
+
+<script>
+import ServiceCard from "../components/ServiceCard";
+
+export default {
+  components: {
+    ServiceCard,
+  },
+};
+</script>

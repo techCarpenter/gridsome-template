@@ -1,7 +1,10 @@
 <template>
-  <div class="layout">
+  <div>
     <Header />
-    <slot />
+    <div class="layout">
+      <slot />
+    </div>
+    <hr />
     <Footer />
   </div>
 </template>
@@ -13,28 +16,15 @@ import Footer from "./../components/Footer";
 export default {
   components: {
     Header,
-    Footer
+    Footer,
   },
 };
 </script>
 
-<static-query>
-query {
-  metadata {
-    siteName
-  }
-}
-</static-query>
-
 <style>
 .layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.nav__link {
-  margin-left: 20px;
+  max-width: 620px;
+  margin: 0 auto 3em;
+  padding: 0 10px;
 }
 </style>

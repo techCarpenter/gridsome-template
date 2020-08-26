@@ -21,7 +21,23 @@ module.exports = {
       use: "@gridsome/source-filesystem",
       options: {
         typeName: "PageMarkdown",
-        baseDir: "./content/pages",
+        baseDir: "./content/markdownPages",
+        path: "*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "galleryEntry",
+        baseDir: "./content/galleryEntries",
+        path: "*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Service",
+        baseDir: "./content/serviceEntries",
         path: "*.md",
       },
     },
