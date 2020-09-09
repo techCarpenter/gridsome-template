@@ -11,5 +11,9 @@ export default function (Vue, { router, head, isClient }) {
   head.link.push({
     rel: "author",
     link: "/humans.txt/"
+  });
+  head.link.push({
+    rel: "icon",
+    href: "/favicon.svg"
   })
 }

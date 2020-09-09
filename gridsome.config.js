@@ -10,7 +10,13 @@ module.exports = {
   siteUrl: "https://annasdoggrooming.netlify.com/",
   titleTemplate: "%s",
   templates: {
-    PageMarkdown: "/:slug",
+    PageMarkdown: [
+      {
+        path: (node) => {
+          return `/${node.fileInfo.name}`;
+        },
+      },
+    ],
   },
   plugins: [
     {

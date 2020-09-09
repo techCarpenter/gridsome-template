@@ -4,7 +4,6 @@
     <div class="layout">
       <slot />
     </div>
-    <hr />
     <Footer />
   </div>
 </template>
@@ -23,8 +22,8 @@ export default {
 
 <style>
 .layout {
-  max-width: 620px;
-  margin: 0 auto 3em;
-  padding: 0 10px;
+  max-width: 50rem;
+  margin: 0 auto 3rem;
+  padding: 0 0.65rem;
 }
 </style>

@@ -13,7 +13,9 @@
     </div>
     <div class="call-to-action">
       Call for an appointment!
-      <a :href="'tel:' + $static.json.phone">{{$static.json.phone}}</a>
+      <a
+        :href="'tel:' + $static.json.phone"
+      >{{`(${$static.json.phone.substring(0,3)}) ${$static.json.phone.substring(3,6)}-${$static.json.phone.substring(6)}`}}</a>
     </div>
   </header>
 </template>
@@ -28,11 +30,11 @@ query {
 
 <style scoped>
 .header-top {
-  padding: 10px;
+  padding: 0.65rem;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-color: var(--accent);
+  background-color: var(--theme-color);
 }
 nav {
   display: flex;
@@ -42,9 +44,9 @@ nav {
   display: flex;
 }
 .nav-link {
-  padding: 5px 8px;
-  margin-right: 10px;
-  border-radius: 6px;
+  padding: 0.32rem 0.5rem;
+  margin-right: 0.65rem;
+  border-radius: 0.4rem;
   background-color: var(--theme-color);
   color: var(--cream);
   text-decoration: none;
@@ -54,7 +56,7 @@ nav {
 }
 .call-to-action {
   text-align: center;
-  padding: 10px;
+  padding: 0.65rem;
   color: black;
 }
 </style>

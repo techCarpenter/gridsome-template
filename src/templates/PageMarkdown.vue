@@ -1,14 +1,16 @@
 <template>
   <Layout>
-    <main class="page" v-html="$page.page.content"></main>
+    <main class="page" v-html="$page.pageMarkdown.content"></main>
   </Layout>
 </template>
 
 <page-query>
-  query Page ($id: ID!) {
-    page: pageMarkdown(id: $id) {
-      title
+  query ($id: ID!) {
+    pageMarkdown(id: $id) {
       content
+      fileInfo {
+          name
+        }
     }
   }
 </page-query>
@@ -17,7 +19,7 @@
 export default {
   metaInfo() {
     return {
-        title: this.$page.page.title
+        title: this.$page.pageMarkdown.fileInfo.name
     };
   },
 };

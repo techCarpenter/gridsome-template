@@ -1,5 +1,5 @@
 :root {
-  --theme-color: #1477e9;/*#00329d;*/
+  --theme-color: #1477e9;
   --accent: #C6E2E9;
   --cream: #F1FFC4;
   --russet: #7b3e19;
@@ -16,11 +16,14 @@ body {
 
 a {
   color: var(--theme-color);
+  text-decoration: none;
 }
 a:hover,
 a:active {
   filter: brightness(0.9);
+  text-decoration: underline;
 }
 img {
-  border-radius: 20px;
+  border-radius: 1.25rem;
+  max-width: 100%;
 }

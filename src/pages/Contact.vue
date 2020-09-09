@@ -36,14 +36,14 @@ iframe {
 .mapouter {
   position: relative;
   text-align: right;
-  height: 200px;
+  height: 12.5rem;
 }
 .gmap_canvas {
   overflow: hidden;
   background: none !important;
-  height: 200px;
+  height: 12.5rem;
 }
 .address-block {
-  margin-top: 1em;
+  margin-top: 1rem;
 }
 </style>

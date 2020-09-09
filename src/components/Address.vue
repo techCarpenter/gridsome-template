@@ -21,7 +21,7 @@ query {
 
 <style scoped>
 .address-block {
-    padding: 5px;
+  padding: 0.32rem;
 }
 p {
   margin: 0;
