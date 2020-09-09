@@ -14,6 +14,6 @@ export default function (Vue, { router, head, isClient }) {
   });
   head.link.push({
     rel: "icon",
-    href: "/favicon.svg"
+    link: "/favicon.svg"
   })
 }
