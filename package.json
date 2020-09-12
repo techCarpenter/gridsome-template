@@ -9,7 +9,9 @@
   "dependencies": {
     "@gridsome/plugin-sitemap": "^0.4.0",
     "@gridsome/source-filesystem": "^0.6.2",
-    "@gridsome/transformer-remark": "^0.6.1",
-    "gridsome": "^0.7.0"
+    "@gridsome/transformer-remark": "^0.6.2",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-netlify-cms": "^1.0.9",
+    "netlify-cms": "^2.10.56"
   }
 }

@@ -25,6 +25,18 @@ export default {
   components: {
     Address,
   },
+  metaInfo() {
+    return {
+      meta: [
+        {
+          key: "description",
+          name: "description",
+          content:
+            "Anna's Dog Grooming provides quality grooming services at a great price",
+        },
+      ],
+    };
+  },
 };
 </script>
 
@@ -45,5 +57,13 @@ iframe {
 }
 .address-block {
   margin-top: 1rem;
+}
+@media (min-width: 50rem) {
+  .mapouter {
+    height: 25rem;
+  }
+  .gmap_canvas {
+      height: 25rem;
+  }
 }
 </style>

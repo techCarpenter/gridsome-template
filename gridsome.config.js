@@ -1,13 +1,7 @@
-// This is where project configuration and plugin options are located.
-// Learn more: https://gridsome.org/docs/config
-
-// Changes here require a server restart.
-// To restart press CTRL + C in terminal and run `gridsome develop`
-
 module.exports = {
   siteName: "Anna's Dog Grooming",
   siteDescription: "",
-  siteUrl: "https://annasdoggrooming.netlify.com/",
+  siteUrl: "https://annasdoggrooming.netlify.com",
   titleTemplate: "%s",
   templates: {
     PageMarkdown: [
@@ -31,20 +25,27 @@ module.exports = {
         path: "*.md",
       },
     },
-    {
-      use: "@gridsome/source-filesystem",
-      options: {
-        typeName: "galleryEntry",
-        baseDir: "./content/galleryEntries",
-        path: "*.md",
-      },
-    },
+    // {
+    //   use: "@gridsome/source-filesystem",
+    //   options: {
+    //     typeName: "galleryEntry",
+    //     baseDir: "./content/galleryEntries",
+    //     path: "*.md",
+    //   },
+    // },
     {
       use: "@gridsome/source-filesystem",
       options: {
         typeName: "Service",
         baseDir: "./content/serviceEntries",
         path: "*.md",
+      },
+    },
+    {
+      use: `gridsome-plugin-netlify-cms`,
+      options: {
+        publicPath: `/admin`,
+        enableIdentityWidget: false,
       },
     },
   ],

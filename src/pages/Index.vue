@@ -4,7 +4,7 @@
       <g-image src="./../assets/images/annas-dog.jpg" alt="Anna's dog Cody!" />
     </div>
     <h1>{{$page.metadata.siteName}}</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores</p>
+    <p>Looking for a dog groomer who knows her stuff? You've come to the right place!</p>
   </Layout>
 </template>
 
@@ -21,8 +21,14 @@ export default {
   metaInfo() {
     return {
       title: this.$page.metadata.siteName,
-      description:
-        "Anna's Dog Grooming provides quality grooming services at a great price",
+      meta: [
+        {
+          key: "description",
+          name: "description",
+          content:
+            "Anna's Dog Grooming provides quality grooming services at a great price",
+        },
+      ],
     };
   },
 };

@@ -1,0 +1,20 @@
+backend:
+  name: gitlab
+  repo: annableeker/annas-dog-grooming
+  auth_type: implicit
+  app_id: 2098f3e5fc943a87f1d61169135117de842e846cd703bea1794da151e89c151f
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "galleryEntry"
+    label: "Gallery Entry"
+    folder: "galleryEntry"
+    create: true
+    slug: "gallery/{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Description", name: "description", widget: "string"}
