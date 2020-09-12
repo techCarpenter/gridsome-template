@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1876"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs1870">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0569113,0.94615321)"
+       id="linearGradientSkeupi5956p"
+       y2="18.753305"
+       x2="5.9172421"
+       y1="18.753305"
+       x1="2.8384595">
+      <stop
+         id="stop1458"
+         stop-color="#1477e9"
+         offset="0%" />
+      <stop
+         id="stop1460"
+         stop-color="#1477e9"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.85884497,1.1643545)"
+       id="linearGradientSkeupi5956s"
+       y2="22.287457"
+       x2="27.469452"
+       y1="22.287457"
+       x1="14.831548">
+      <stop
+         id="stop1463"
+         stop-color="#1477e9"
+         offset="0%" />
+      <stop
+         id="stop1465"
+         stop-color="#1477e9"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0939821,0.91409174)"
+       id="linearGradientSkeupi5956v"
+       y2="57.784134"
+       x2="89.709877"
+       y1="57.784134"
+       x1="3.98544">
+      <stop
+         id="stop1468"
+         stop-color="#1477e9"
+         offset="0%" />
+      <stop
+         id="stop1470"
+         stop-color="#1477e9"
+         offset="100%" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47095698"
+     inkscape:cx="309.18126"
+     inkscape:cy="313.44291"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1873">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(14.96215,0,0,14.96215,-496.92411,18.163298)"
+       id="g1818"
+       inkscape:label="dogLogo"
+       style="fill:#1477e9;fill-opacity:1;stroke:none;stroke-width:0.0668355">
+      <path
+         style="fill:#1477e9;fill-opacity:1;stroke:none;stroke-width:0.0668355px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 42.247844,4.7426198 -2.018322,-1.9418685 -3.78133,-1.0472131 0.178861,1.2264247 0.791898,0.5106303 h -0.919907 l 0.128009,-0.5106303 -1.865064,-0.2304149 -1.021962,1.3288313 0.255666,0.9707585 2.827756,0.919906 1.758448,-2.7765521 h 1.482091 l 0.741045,1.1285773 -0.715444,3.1167388 -1.73986,0.973564 1.233088,4.1316872 -0.613739,1.976238 2.827405,4.768923 1.328481,4.701236 -0.102407,4.01946 -0.851518,0.442944 -0.374556,0.78313 h 2.282406 l 0.545,-5.688829 v -5.058607 l 11.164778,-2.018323 1.967119,3.628071 5.415978,4.496072 0.204813,2.682563 -1.175572,0.562184 -0.230064,0.893954 h 2.503702 l 0.332471,-6.591199 -3.065886,-5.084209 -0.161677,-0.767349 0.545351,1.022664 3.14199,4.790316 -0.204463,3.81149 -0.449257,0.06663 -0.06804,1.366006 h 1.642013 l 0.442593,-5.33286 -4.114151,-4.991622 -1.313751,-2.526498 -0.150103,-0.711586 1.174871,0.717899 0.306168,-1.098417 -4.138,-2.784969 L 46.5142,10.030935 43.984896,8.7536578 Z"
+         id="path1013"
+         inkscape:label="dogBody" />
+      <path
+         style="fill:#1477e9;fill-opacity:1;stroke:none;stroke-width:0.0668355px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 38.76458,3.5245717 h 1.175572 l 0.587435,0.7918978 -0.715093,3.0150333 -2.350793,1.353732 -0.740695,-1.686202 z"
+         id="path1015"
+         inkscape:label="dogEar" />
+      <path
+         style="opacity:0.997;fill:#1477e9;fill-opacity:1;stroke:none;stroke-width:0.0668355px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 33.21208,2.7354889 h 1.141203 l -0.834684,1.0216114 z"
+         id="path1017"
+         inkscape:label="dogNose" />
+    </g>
+  </g>
+</svg>
