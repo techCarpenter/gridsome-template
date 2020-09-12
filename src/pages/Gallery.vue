@@ -13,13 +13,14 @@
 
 <page-query>
 query {
-  allGalleryEntry(sortBy: "date") {
+  allGalleryEntry {
     edges {
       node {
         id
-        photo
-        date
         description
+        image
+        date (format: "MM/DD/YYYY")
+        title
       }
     }
   }
@@ -35,3 +36,19 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.gallery-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media (min-width: 50rem) {
+  .gallery-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+}
+</style>

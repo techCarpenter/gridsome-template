@@ -25,14 +25,13 @@ module.exports = {
         path: "*.md",
       },
     },
-    // {
-    //   use: "@gridsome/source-filesystem",
-    //   options: {
-    //     typeName: "galleryEntry",
-    //     baseDir: "./content/galleryEntries",
-    //     path: "*.md",
-    //   },
-    // },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "galleryEntry",
+        path: "galleryEntry/**/*.md",
+      },
+    },
     {
       use: "@gridsome/source-filesystem",
       options: {
