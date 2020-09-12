@@ -10,10 +10,10 @@ export default function (Vue, { router, head, isClient }) {
   Vue.component('Layout', DefaultLayout);
   head.link.push({
     rel: "author",
-    link: "/humans.txt/"
+    href: "humans.txt"
   });
   head.link.push({
     rel: "icon",
-    link: "/favicon.svg"
+    href: "/favicon.ico"
   })
 }

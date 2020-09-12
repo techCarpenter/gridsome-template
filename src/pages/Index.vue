@@ -16,6 +16,18 @@ query {
 }
 </page-query>
 
+<script>
+export default {
+  metaInfo() {
+    return {
+      title: this.$page.metadata.siteName,
+      description:
+        "Anna's Dog Grooming provides quality grooming services at a great price",
+    };
+  },
+};
+</script>
+
 <style>
 .image-box {
   width: 100%;
