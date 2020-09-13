@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   height="75"
-   width="100"
-   sodipodi:docname="favicon.svg"
+   id="workspace"
    version="1.1"
-   id="workspace">
+   sodipodi:docname="favicon.svg"
+   width="100"
+   height="75"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata1647">
     <rdf:RDF>
@@ -21,909 +21,831 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="workspace"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="30.785119"
-     inkscape:cx="28.951675"
-     inkscape:zoom="5.3823656"
-     units="px"
-     showgrid="false"
-     id="namedview1645"
-     inkscape:window-height="705"
-     inkscape:window-width="1366"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview1645"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="8"
+     inkscape:cx="50.261691"
+     inkscape:cy="25.877011"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="workspace" />
   <desc
      id="desc1241">Created with Snap</desc>
   <defs
      id="defs1473">
     <linearGradient
-       id="linearGradientSkeupi5951c"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5951c">
       <stop
-         id="stop1243"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1243" />
       <stop
-         id="stop1245"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1245" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5951l"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5951l">
       <stop
-         id="stop1248"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1248" />
       <stop
-         id="stop1250"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1250" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5951u"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5951u">
       <stop
-         id="stop1253"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1253" />
       <stop
-         id="stop1255"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1255" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5952p"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5952p">
       <stop
-         id="stop1258"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1258" />
       <stop
-         id="stop1260"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1260" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5952s"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5952s">
       <stop
-         id="stop1263"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1263" />
       <stop
-         id="stop1265"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1265" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5952v"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5952v">
       <stop
-         id="stop1268"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1268" />
       <stop
-         id="stop1270"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1270" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5953a"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5953a">
       <stop
-         id="stop1273"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1273" />
       <stop
-         id="stop1275"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1275" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5953d"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5953d">
       <stop
-         id="stop1278"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1278" />
       <stop
-         id="stop1280"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1280" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5953g"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5953g">
       <stop
-         id="stop1283"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1283" />
       <stop
-         id="stop1285"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1285" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.6325661,0.61253264)"
-       id="linearGradientSkeupi5953j"
-       y2="105.46444"
-       x2="225.22945"
+       x1="60.892155"
        y1="105.46444"
-       x1="60.892155">
+       x2="225.22945"
+       y2="105.46444"
+       id="linearGradientSkeupi5953j"
+       gradientTransform="scale(1.6325661,0.61253264)"
+       gradientUnits="userSpaceOnUse">
       <stop
-         id="stop1288"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1288" />
       <stop
-         id="stop1290"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1290" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0988799,0,0,0.20218147,-286.74647,-137.70831)"
-       id="linearGradientSkeupi5953m"
-       y2="-41.894066"
-       x2="140.24149"
+       x1="-120.68139"
        y1="-41.894066"
-       x1="-120.68139">
+       x2="140.24149"
+       y2="-41.894066"
+       id="linearGradientSkeupi5953m"
+       gradientTransform="matrix(1.0988799,0,0,0.20218147,-286.74647,-137.70831)"
+       gradientUnits="userSpaceOnUse">
       <stop
-         id="stop1293"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1293" />
       <stop
-         id="stop1295"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1295" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.5585475,0.64162307)"
-       id="linearGradientSkeupi5953p"
-       y2="-64.952461"
-       x2="66.937157"
+       x1="-65.399109"
        y1="-64.952461"
-       x1="-65.399109">
+       x2="66.937157"
+       y2="-64.952461"
+       id="linearGradientSkeupi5953p"
+       gradientTransform="scale(1.5585475,0.64162307)"
+       gradientUnits="userSpaceOnUse">
       <stop
-         id="stop1298"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1298" />
       <stop
-         id="stop1300"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1300" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.7272756,0.5789464)"
-       id="linearGradientSkeupi5953s"
-       y2="-72.02739"
-       x2="73.246895"
+       x1="-73.329712"
        y1="-72.02739"
-       x1="-73.329712">
+       x2="73.246895"
+       y2="-72.02739"
+       id="linearGradientSkeupi5953s"
+       gradientTransform="scale(1.7272756,0.5789464)"
+       gradientUnits="userSpaceOnUse">
       <stop
-         id="stop1303"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1303" />
       <stop
-         id="stop1305"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1305" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5953v"
-       y2="0.5"
-       x2="1"
+       x1="0"
        y1="0.5"
-       x1="0">
-      <stop
-         id="stop1308"
-         stop-color="#1477e9"
-         offset="0%" />
-      <stop
-         id="stop1310"
-         stop-color="#1477e9"
-         offset="100%" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradientSkeupi5953y"
-       y2="0.5"
        x2="1"
-       y1="0.5"
-       x1="0">
-      <stop
-         id="stop1313"
-         stop-color="#1477e9"
-         offset="0%" />
-      <stop
-         id="stop1315"
-         stop-color="#1477e9"
-         offset="100%" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradientSkeupi59541"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5953v">
       <stop
-         id="stop1318"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1308" />
       <stop
-         id="stop1320"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1310" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi59544"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5953y">
       <stop
-         id="stop1323"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1313" />
       <stop
-         id="stop1325"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1315" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi59547"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi59541">
       <stop
-         id="stop1328"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1318" />
       <stop
-         id="stop1330"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1320" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5954a"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi59544">
       <stop
-         id="stop1333"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1323" />
       <stop
-         id="stop1335"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1325" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5954j"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi59547">
       <stop
-         id="stop1338"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1328" />
       <stop
-         id="stop1340"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1330" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5954m"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5954a">
       <stop
-         id="stop1343"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1333" />
       <stop
-         id="stop1345"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1335" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5954p"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5954j">
       <stop
-         id="stop1348"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1338" />
       <stop
-         id="stop1350"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1340" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5954s"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5954m">
       <stop
-         id="stop1353"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1343" />
       <stop
-         id="stop1355"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1345" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5954v"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5954p">
       <stop
-         id="stop1358"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1348" />
       <stop
-         id="stop1360"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1350" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5954y"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5954s">
       <stop
-         id="stop1363"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1353" />
       <stop
-         id="stop1365"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1355" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi59551"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5954v">
       <stop
-         id="stop1368"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1358" />
       <stop
-         id="stop1370"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1360" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi59554"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5954y">
       <stop
-         id="stop1373"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1363" />
       <stop
-         id="stop1375"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1365" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi59557"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi59551">
       <stop
-         id="stop1378"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1368" />
       <stop
-         id="stop1380"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1370" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5955a"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi59554">
       <stop
-         id="stop1383"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1373" />
       <stop
-         id="stop1385"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1375" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5955d"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi59557">
       <stop
-         id="stop1388"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1378" />
       <stop
-         id="stop1390"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1380" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5955g"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5955a">
       <stop
-         id="stop1393"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1383" />
       <stop
-         id="stop1395"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1385" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5955j"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5955d">
       <stop
-         id="stop1398"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1388" />
       <stop
-         id="stop1400"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1390" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5955m"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5955g">
       <stop
-         id="stop1403"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1393" />
       <stop
-         id="stop1405"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1395" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5955p"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5955j">
       <stop
-         id="stop1408"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1398" />
       <stop
-         id="stop1410"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1400" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5955s"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5955m">
       <stop
-         id="stop1413"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1403" />
       <stop
-         id="stop1415"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1405" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5955v"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5955p">
       <stop
-         id="stop1418"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1408" />
       <stop
-         id="stop1420"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1410" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5955y"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5955s">
       <stop
-         id="stop1423"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1413" />
       <stop
-         id="stop1425"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1415" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi59567"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5955v">
       <stop
-         id="stop1428"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1418" />
       <stop
-         id="stop1430"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1420" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5956a"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5955y">
       <stop
-         id="stop1433"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1423" />
       <stop
-         id="stop1435"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1425" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5956d"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi59567">
       <stop
-         id="stop1438"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1428" />
       <stop
-         id="stop1440"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1430" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5956g"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5956a">
       <stop
-         id="stop1443"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1433" />
       <stop
-         id="stop1445"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1435" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5956j"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5956d">
       <stop
-         id="stop1448"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1438" />
       <stop
-         id="stop1450"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1440" />
     </linearGradient>
     <linearGradient
-       id="linearGradientSkeupi5956m"
+       x1="0"
+       y1="0.5"
+       x2="1"
        y2="0.5"
-       x2="1"
-       y1="0.5"
-       x1="0">
+       id="linearGradientSkeupi5956g">
       <stop
-         id="stop1453"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1443" />
       <stop
-         id="stop1455"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1445" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.0569113,0.94615321)"
-       id="linearGradientSkeupi5956p"
-       y2="18.753305"
-       x2="5.9172421"
+       x1="0"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5956j">
+      <stop
+         offset="0%"
+         stop-color="#1477e9"
+         id="stop1448" />
+      <stop
+         offset="100%"
+         stop-color="#1477e9"
+         id="stop1450" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       id="linearGradientSkeupi5956m">
+      <stop
+         offset="0%"
+         stop-color="#1477e9"
+         id="stop1453" />
+      <stop
+         offset="100%"
+         stop-color="#1477e9"
+         id="stop1455" />
+    </linearGradient>
+    <linearGradient
+       x1="2.8384595"
        y1="18.753305"
-       x1="2.8384595">
+       x2="5.9172421"
+       y2="18.753305"
+       id="linearGradientSkeupi5956p"
+       gradientTransform="scale(1.0569113,0.94615321)"
+       gradientUnits="userSpaceOnUse">
       <stop
-         id="stop1458"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1458" />
       <stop
-         id="stop1460"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1460" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.85884497,1.1643545)"
-       id="linearGradientSkeupi5956s"
-       y2="22.287457"
-       x2="27.469452"
+       x1="14.831548"
        y1="22.287457"
-       x1="14.831548">
+       x2="27.469452"
+       y2="22.287457"
+       id="linearGradientSkeupi5956s"
+       gradientTransform="scale(0.85884497,1.1643545)"
+       gradientUnits="userSpaceOnUse">
       <stop
-         id="stop1463"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1463" />
       <stop
-         id="stop1465"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1465" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.0939821,0.91409174)"
-       id="linearGradientSkeupi5956v"
-       y2="57.784134"
+       x1="9.2929163"
+       y1="53.481186"
        x2="89.709877"
-       y1="57.784134"
-       x1="3.98544">
+       y2="56.964523"
+       id="linearGradientSkeupi5956v"
+       gradientTransform="scale(1.0939821,0.91409174)"
+       gradientUnits="userSpaceOnUse">
       <stop
-         id="stop1468"
+         offset="0%"
          stop-color="#1477e9"
-         offset="0%" />
+         id="stop1468" />
       <stop
-         id="stop1470"
+         offset="100%"
          stop-color="#1477e9"
-         offset="100%" />
+         id="stop1470" />
     </linearGradient>
   </defs>
   <g
-     transform="translate(-1.7121499,5.4283522)"
-     id="g1818">
-    <g
-       class="svg-clip svg-visible"
-       style="stroke-width:5.18438"
-       transform="matrix(0.35070765,0,0,0.35070765,31.458542,0.98195065)"
-       id="g1503">
-      <svg
-         width="13.254"
-         height="12.913"
-         viewBox="-2 11.287 13.254 12.913"
-         version="1.1"
-         id="svg1501"
-         style="stroke-width:5.18438">
-        <desc
-           id="desc1489">Created with Snap</desc>
-        <defs
-           id="defs1491" />
-        <g
-           id="g1493"
-           style="stroke-width:5.18438" />
-        <g
-           id="g1495"
-           style="stroke-width:5.18438" />
-        <g
-           id="g1499"
-           style="stroke-width:5.18438">
-          <path
-             d="M 3,16.287 3.874,19.2 6.254,16.287 Z"
-             style="fill:url(#linearGradientSkeupi5956p);stroke:none;stroke-width:12.6689"
-             id="polygon1497" />
-        </g>
-      </svg>
-    </g>
-    <g
-       class="svg-clip svg-visible"
-       style="stroke-width:5.18438"
-       transform="matrix(0.35070765,0,0,0.35070765,34.967468,1.7710334)"
-       id="g1521">
-      <svg
-         width="20.854"
-         height="24.715"
-         viewBox="7.738 13.593 20.854 24.715"
-         version="1.1"
-         id="svg1519"
-         style="stroke-width:5.18438">
-        <desc
-           id="desc1507">Created with Snap</desc>
-        <defs
-           id="defs1509" />
-        <g
-           id="g1511"
-           style="stroke-width:5.18438" />
-        <g
-           id="g1513"
-           style="stroke-width:5.18438" />
-        <g
-           id="g1517"
-           style="stroke-width:5.18438">
-          <path
-             d="m 23.592,20.851 -1.675,-2.258 h -3.352 l -5.827,9.907 2.112,4.808 6.703,-3.86 z"
-             style="fill:url(#linearGradientSkeupi5956s);stroke:none;stroke-width:12.6689"
-             id="polygon1515" />
-        </g>
-      </svg>
-    </g>
-    <g
-       class="svg-clip svg-visible"
-       style="stroke-width:5.18438"
-       transform="matrix(0.35070765,0,0,0.35070765,31.986489,0)"
-       id="g1539">
-      <svg
-         width="103.781"
-         height="88.360001"
-         viewBox="-0.64 8.64 103.781 88.36"
-         version="1.1"
-         id="svg1537"
-         style="stroke-width:5.18438">
-        <desc
-           id="desc1525">Created with Snap</desc>
-        <defs
-           id="defs1527" />
-        <g
-           id="g1529"
-           style="stroke-width:5.18438" />
-        <g
-           id="g1531"
-           style="stroke-width:5.18438" />
-        <g
-           id="g1535"
-           style="stroke-width:5.18438">
-          <path
-             d="m 86.41,57.176 -3.746,-7.204 -0.428,-2.029 3.35,2.047 0.873,-3.132 L 74.66,38.917 40.784,37.242 33.572,33.6 28.619,22.163 22.864,16.626 12.082,13.64 l 0.51,3.497 2.258,1.456 h -2.623 l 0.365,-1.456 -5.318,-0.657 -2.914,3.789 0.729,2.768 8.063,2.623 0.135,0.212 4.879,-8.129 h 4.226 l 2.113,3.218 -2.04,8.887 -4.961,2.776 3.516,11.781 -1.75,5.635 8.062,13.598 L 31.12,77.043 30.828,88.504 28.4,89.767 27.332,92 H 33.84 L 35.394,75.779 V 61.355 l 31.835,-5.755 5.609,10.345 15.443,12.82 0.584,7.649 -3.352,1.603 -0.656,2.549 h 7.139 l 0.201,-3.951 h 4.682 l 1.262,-15.206 z m 7.262,25.354 -1.281,0.19 0.553,-10.948 -8.742,-14.497 -0.461,-2.188 1.555,2.916 8.959,13.659 z"
-             fill="url(#linearGradientSkeupi5956v)"
-             stroke="none"
-             id="path1533"
-             style="fill:url(#linearGradientSkeupi5956v);stroke-width:12.6689" />
-        </g>
-      </svg>
-    </g>
+     style="fill:#1477e9;fill-opacity:1;stroke:none"
+     inkscape:label="dogLogo"
+     id="g1818"
+     transform="translate(-1.7121499,5.4283522)">
+    <path
+       inkscape:label="dogBody"
+       id="path1013"
+       d="m 42.247844,4.7426198 -2.018322,-1.9418685 -3.78133,-1.0472131 0.178861,1.2264247 0.791898,0.5106303 h -0.919907 l 0.128009,-0.5106303 -1.865064,-0.2304149 -1.021962,1.3288313 0.255666,0.9707585 2.827756,0.919906 1.758448,-2.7765521 h 1.482091 l 0.741045,1.1285773 -0.715444,3.1167388 -1.73986,0.973564 1.233088,4.1316872 -0.613739,1.976238 2.827405,4.768923 1.328481,4.701236 -0.102407,4.01946 -0.851518,0.442944 -0.374556,0.78313 h 2.282406 l 0.545,-5.688829 v -5.058607 l 11.164778,-2.018323 1.967119,3.628071 5.415978,4.496072 0.204813,2.682563 -1.175572,0.562184 -0.230064,0.893954 h 2.503702 l 0.332471,-6.591199 -3.065886,-5.084209 -0.161677,-0.767349 0.545351,1.022664 3.14199,4.790316 -0.204463,3.81149 -0.449257,0.06663 -0.06804,1.366006 h 1.642013 l 0.442593,-5.33286 -4.114151,-4.991622 -1.313751,-2.526498 -0.150103,-0.711586 1.174871,0.717899 0.306168,-1.098417 -4.138,-2.784969 L 46.5142,10.030935 43.984896,8.7536578 Z"
+       style="fill:#1477e9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:label="dogEar"
+       id="path1015"
+       d="m 38.76458,3.5245717 h 1.175572 l 0.587435,0.7918978 -0.715093,3.0150333 -2.350793,1.353732 -0.740695,-1.686202 z"
+       style="fill:#1477e9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:label="dogNose"
+       id="path1017"
+       d="m 33.21208,2.7354889 h 1.141203 l -0.834684,1.0216114 z"
+       style="opacity:0.997;fill:#1477e9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
+     inkscape:groupmode="layer"
      id="g1575">
     <rect
-       id="rect1573"
-       stroke="#ff8800"
-       fill="rgba(255,136,0,0.1)"
-       style="stroke-width:1px"
-       height="0"
-       width="0"
+       x="0"
        y="0"
-       x="0" />
+       width="0"
+       height="0"
+       style="stroke-width:1px"
+       fill="rgba(255,136,0,0.1)"
+       stroke="#ff8800"
+       id="rect1573" />
   </g>
   <g
-     id="g1579"
-     class="selector-part">
+     class="selector-part"
+     id="g1579">
     <rect
-       id="rect1577"
-       stroke="#3399ff"
-       fill="rgba(168,202,236,0.5)"
-       style="stroke-width:1px"
-       height="0"
-       width="0"
+       inkscape:label="rect1577"
+       x="0"
        y="0"
-       x="0" />
+       width="0"
+       height="0"
+       style="stroke-width:1px"
+       fill="rgba(168,202,236,0.5)"
+       stroke="#3399ff"
+       id="rect1577" />
   </g>
   <text
-     id="text1680"
-     y="47.720074"
-     x="33.313717"
+     xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1477e9;fill-opacity:1;stroke:none"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Dubai;-inkscape-font-specification:Dubai;fill:#1477e9;fill-opacity:1"
-       y="47.720074"
-       x="33.313717"
+     x="33.313717"
+     y="47.720074"
+     id="text1680"><tspan
+       sodipodi:role="line"
        id="tspan1678"
-       sodipodi:role="line">Anna's</tspan></text>
+       x="33.313717"
+       y="47.720074"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Dubai;-inkscape-font-specification:Dubai;fill:#1477e9;fill-opacity:1">Anna's</tspan></text>
+  <text
+     id="text1792"
+     y="60.725506"
+     x="16.201256"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#1477e9;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script';fill:#1477e9;fill-opacity:1"
+       y="60.725506"
+       x="16.201256"
+       id="tspan1790"
+       sodipodi:role="line">Dog Grooming</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#1477e9;fill-opacity:1;stroke:none"
-     x="16.201256"
-     y="60.725506"
-     id="text1792"><tspan
-       sodipodi:role="line"
-       id="tspan1790"
-       x="16.201256"
-       y="60.725506"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script';fill:#1477e9;fill-opacity:1">Dog Grooming</tspan></text>
-  <text
-     id="text1822"
-     y="21.592249"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1477e9;fill-opacity:1;stroke:none"
      x="19.032261"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1477e9;fill-opacity:1;stroke:none"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Dubai;-inkscape-font-specification:Dubai;fill:#1477e9;fill-opacity:1"
-       y="21.592249"
-       x="19.032261"
-       id="tspan1820"
-       sodipodi:role="line">EST.</tspan></text>
-  <text
-     id="text1826"
      y="21.592249"
-     x="69.196075"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1477e9;fill-opacity:1;stroke:none"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Dubai;-inkscape-font-specification:Dubai;fill:#1477e9;fill-opacity:1"
+     id="text1822"><tspan
+       sodipodi:role="line"
+       id="tspan1820"
+       x="19.032261"
        y="21.592249"
-       x="69.196075"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Dubai;-inkscape-font-specification:Dubai;fill:#1477e9;fill-opacity:1">EST.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1477e9;fill-opacity:1;stroke:none"
+     x="69.196075"
+     y="21.592249"
+     id="text1826"><tspan
+       sodipodi:role="line"
        id="tspan1824"
-       sodipodi:role="line">2020</tspan></text>
+       x="69.196075"
+       y="21.592249"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Dubai;-inkscape-font-specification:Dubai;fill:#1477e9;fill-opacity:1">2020</tspan></text>
 </svg>
