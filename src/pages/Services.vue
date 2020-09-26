@@ -10,23 +10,23 @@
     </div>
   </Layout>
 </template>
-
+<!--
 <page-query>
   query {
-    services: allService {
+    services: allServiceEntry {
       edges {
         node {
           id
           price
           description
-          title
-          icon
+          name
+          image
         }
       }
     }
   }
 </page-query>
-
+-->
 <script>
 import ServiceCard from "../components/ServiceCard";
 
