@@ -1,4 +1,4 @@
 ---
-pageName: New Page
+pageName: Another Page
 ---
-![Anna with her dog](/uploads/anna-profile.jpg "Sample Title")
+![](https://brianjdevries.com/favicon.ico)
