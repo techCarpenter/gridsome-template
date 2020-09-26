@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: "https://annasdoggrooming.netlify.com",
   titleTemplate: "%s",
   templates: {
-    markdownPage: [
+    webPage: [
       {
         path: (node) => {
           return `/${slugify(node.pageURL)}`;
@@ -36,8 +36,8 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
-        typeName: "markdownPage",
-        path: "./content/markdownPage/*.md",
+        typeName: "webPage",
+        path: "./content/webPage/*.md",
       },
     },
     {
