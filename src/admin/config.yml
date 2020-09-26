@@ -4,37 +4,38 @@ backend:
   auth_type: implicit
   app_id: 2098f3e5fc943a87f1d61169135117de842e846cd703bea1794da151e89c151f
 
-media_folder: "static/uploads"
-public_folder: "/uploads"
+media_folder: static/uploads
+public_folder: /uploads
 
 collections:
-  - name: "galleryEntry"
-    label: "Gallery Entry"
-    folder: "content/galleryEntry"
+  - name: galleryEntry
+    label: Gallery Entry
+    folder: content/galleryEntry
     create: true
-    slug: "{{title}}"
+    slug: slug
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Description", name: "description", widget: "string"}
-  - name: "serviceEntry"
-    label: "Service Entry"
-    folder: "content/serviceEntry"
-    identifier_field: "service"
+      - { label: Title, name: title, widget: string }
+      - { label: Image, name: image, widget: image }
+      - { label: Date, name: date, widget: date }
+      - { label: Description, name: description, widget: string }
+  - name: serviceEntry
+    label: Service Entry
+    folder: content/serviceEntry
+    identifier_field: service
     create: true
-    slug: "{{service}}"
+    slug: slug
     fields:
-      - {label: "Service", name: "service", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Price", name: "price", widget: "number", value_type: "float", step: 0.01}
-      - {label: "Description", name: "description", widget: "string"}
-  - name: "markdownPage"
-    label: "Markdown Page"
-    folder: "content/markdownPage"
-    identifier_field: "pageName"
+      - { label: Service, name: service, widget: string }
+      - { label: Image, name: image, widget: image }
+      - { label: Price, name: price, widget: number, value_type: float, step: 0.01 }
+      - { label: Description, name: description, widget: string }
+  - name: markdownPage
+    label: Markdown Page
+    folder: content/markdownPage
+    identifier_field: pageName
     create: true
-    slug: "{{slug}}"
+    slug: slug
     fields:
-      - {label: "Page Name", name: "pageName", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: Page Name, name: pageName, widget: string }
+      - { label: Page URL, name: pageURL, widget: string }
+      - { label: Body, name: body, widget: markdown }

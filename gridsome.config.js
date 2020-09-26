@@ -1,3 +1,5 @@
+const slugify = require('@sindresorhus/slugify');
+
 module.exports = {
   siteName: "Anna's Dog Grooming",
   siteDescription: "Quality dog grooms at a great price",
@@ -7,7 +9,7 @@ module.exports = {
     markdownPage: [
       {
         path: (node) => {
-          return `/${node.fileInfo.name}`;
+          return `/${slugify(node.pageURL)}`;
         },
       },
     ],

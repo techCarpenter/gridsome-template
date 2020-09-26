@@ -1,5 +1,6 @@
 ---
 pageName: About
+pageURL: about
 ---
 # About Me
 
