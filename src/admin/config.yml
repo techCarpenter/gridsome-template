@@ -18,3 +18,21 @@ collections:
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Description", name: "description", widget: "string"}
+  - name: "serviceEntry"
+    label: "Service Entry"
+    folder: "serviceEntry"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Service", name: "service", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Price", name: "price", widget: "float"}
+      - {label: "Description", name: "description", widget: "string"}
+  - name: "markdownPage"
+    label: "Markdown Page"
+    folder: "markdownPage"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Page Name", name: "pageName", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

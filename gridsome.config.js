@@ -1,13 +1,13 @@
 module.exports = {
   siteName: "Anna's Dog Grooming",
-  siteDescription: "",
+  siteDescription: "Quality dog grooms at a great price",
   siteUrl: "https://annasdoggrooming.netlify.com",
   titleTemplate: "%s",
   templates: {
-    PageMarkdown: [
+    markdownPage: [
       {
         path: (node) => {
-          return `/${node.fileInfo.name}`;
+          return `/${node.pageName}`;
         },
       },
     ],
@@ -20,26 +20,40 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
-        typeName: "PageMarkdown",
-        baseDir: "./content/markdownPages",
-        path: "*.md",
-      },
-    },
-    {
-      use: "@gridsome/source-filesystem",
-      options: {
         typeName: "galleryEntry",
-        path: "galleryEntry/**/*.md",
+        path: "./content/galleryEntry/**/*.md",
       },
     },
     {
       use: "@gridsome/source-filesystem",
       options: {
-        typeName: "Service",
-        baseDir: "./content/serviceEntries",
-        path: "*.md",
+        typeName: "serviceEntry",
+        path: "./content/serviceEntry/**/*.md",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "markdownPage",
+        path: "./content/markdownPage/**/*.md",
+      },
+    },
+    // {
+    //   use: "@gridsome/source-filesystem",
+    //   options: {
+    //     typeName: "PageMarkdown",
+    //     baseDir: "./content/markdownPages",
+    //     path: "*.md",
+    //   },
+    // },
+    // {
+    //   use: "@gridsome/source-filesystem",
+    //   options: {
+    //     typeName: "Service",
+    //     baseDir: "./content/serviceEntries",
+    //     path: "*.md",
+    //   },
+    // },
     {
       use: `gridsome-plugin-netlify-cms`,
       options: {

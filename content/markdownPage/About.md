@@ -1,3 +1,6 @@
+---
+pageName: About
+---
 # About Me
 
 ![Anna with her dog Cody](../../src/assets/images/anna-profile.jpg)

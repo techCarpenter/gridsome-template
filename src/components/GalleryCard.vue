@@ -24,7 +24,6 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* box-shadow: 0 6px 10px 5px rgba(0, 0, 0, 0.15); */
 }
 .gallery-card img {
   box-shadow: 0 6px 3px rgba(0, 0, 0, 0.2);
