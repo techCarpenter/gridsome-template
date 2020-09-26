@@ -10,7 +10,7 @@ public_folder: "/uploads"
 collections:
   - name: "galleryEntry"
     label: "Gallery Entry"
-    folder: "galleryEntry"
+    folder: "content/galleryEntry"
     create: true
     slug: "{{slug}}"
     fields:
@@ -20,7 +20,7 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
   - name: "serviceEntry"
     label: "Service Entry"
-    folder: "serviceEntry"
+    folder: "content/serviceEntry"
     create: true
     slug: "{{slug}}"
     fields:
@@ -30,7 +30,7 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
   - name: "markdownPage"
     label: "Markdown Page"
-    folder: "markdownPage"
+    folder: "content/markdownPage"
     create: true
     slug: "{{slug}}"
     fields:
