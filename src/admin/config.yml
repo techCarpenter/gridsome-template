@@ -29,9 +29,9 @@ collections:
       - { label: Image, name: image, widget: image }
       - { label: Price, name: price, widget: number, value_type: float, step: 0.01 }
       - { label: Description, name: description, widget: string }
-  - name: markdownPage
-    label: Markdown Page
-    folder: content/markdownPage
+  - name: webPage
+    label: Web Page
+    folder: content/webPage
     identifier_field: pageName
     create: true
     slug: slug
