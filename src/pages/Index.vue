@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="image-box">
-      <g-image src="./../assets/images/annas-dog.jpg" alt="Anna's dog Cody!" />
+      <g-image src="./../../static/uploads/annas-dog.jpg" alt="Anna's dog Cody!" />
     </div>
     <h1>{{$page.metadata.siteName}}</h1>
     <p>Looking for a dog groomer who knows her stuff? You've come to the right place!</p>

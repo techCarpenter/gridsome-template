@@ -4,7 +4,7 @@
       <div class="gmap_canvas">
         <iframe
           id="gmap_canvas"
-          src="https://maps.google.com/maps?q=3882%20Hall%20St.%20SW%20Grand%20Rapids%2C%20MI%2049534&t=&z=12&ie=UTF8&iwloc=&output=embed"
+          :src="`https://maps.google.com/maps?q=${$page.json.address.address1} ${$page.json.address.address2}&t=&z=12&ie=UTF8&iwloc=&output=embed`"
           frameborder="0"
           scrolling="no"
           marginheight="0"
@@ -17,6 +17,17 @@
     </div>
   </Layout>
 </template>
+
+<page-query>
+query {
+  json(id: "0") {
+    address {
+        address1
+        address2
+    }
+  }
+}
+</page-query>
 
 <script>
 import Address from "./../components/Address";
@@ -63,7 +74,7 @@ iframe {
     height: 25rem;
   }
   .gmap_canvas {
-      height: 25rem;
+    height: 25rem;
   }
 }
 </style>

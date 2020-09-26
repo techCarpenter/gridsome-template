@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <h1>Services</h1>
-    <div class="service-container">
+    <div v-if="false/*$page.services.edges.length > 0*/" class="service-container">
       <ServiceCard
         v-for="service in $page.services.edges"
         :key="service.node.id"
