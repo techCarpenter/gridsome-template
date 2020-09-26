@@ -1,4 +1,4 @@
 ---
 pageName: New Page
 ---
-Hi, I'm testing this out!
+![Anna with her dog](/uploads/anna-profile.jpg "Sample Title")
