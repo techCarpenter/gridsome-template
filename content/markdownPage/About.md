@@ -3,7 +3,7 @@ pageName: About
 ---
 # About Me
 
-![Anna with her dog Cody](../../src/assets/images/anna-profile.jpg)
+![Anna with her dog Cody](./../../static/uploads/anna-profile.jpg)
 
 Hi, my name is Anna and I love dogs! I am an experienced, certified pet groomer and I love what I do.
 

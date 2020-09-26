@@ -7,7 +7,7 @@ module.exports = {
     markdownPage: [
       {
         path: (node) => {
-          return `/${node.pageName}`;
+          return `/${node.fileInfo.name}`;
         },
       },
     ],
@@ -21,39 +21,23 @@ module.exports = {
       use: "@gridsome/source-filesystem",
       options: {
         typeName: "galleryEntry",
-        path: "./content/galleryEntry/**/*.md",
+        path: "./content/galleryEntry/*.md",
       },
     },
     {
       use: "@gridsome/source-filesystem",
       options: {
         typeName: "serviceEntry",
-        path: "./content/serviceEntry/**/*.md",
+        path: "./content/serviceEntry/*.md",
       },
     },
     {
       use: "@gridsome/source-filesystem",
       options: {
         typeName: "markdownPage",
-        path: "./content/markdownPage/**/*.md",
+        path: "./content/markdownPage/*.md",
       },
     },
-    // {
-    //   use: "@gridsome/source-filesystem",
-    //   options: {
-    //     typeName: "PageMarkdown",
-    //     baseDir: "./content/markdownPages",
-    //     path: "*.md",
-    //   },
-    // },
-    // {
-    //   use: "@gridsome/source-filesystem",
-    //   options: {
-    //     typeName: "Service",
-    //     baseDir: "./content/serviceEntries",
-    //     path: "*.md",
-    //   },
-    // },
     {
       use: `gridsome-plugin-netlify-cms`,
       options: {
